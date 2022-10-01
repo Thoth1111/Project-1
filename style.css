@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#header-img {
+    width: 300px;
+}
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+ul {
+    list-style: none;
+    display: flex;
+}
+a {
+    text-decoration: none;
+}
+li{
+    margin: 15px;
+    font-size: 20px;
+}
