@@ -21,3 +21,23 @@ li{
     margin: 15px;
     font-size: 20px;
 }
+.section-1 {
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    padding: 8px 32px;
+    border: 5px;
+    align-items: center;
+    margin-left: 5px;
+}
+input {
+    padding: 8px 32px;
+}
+img{
+    width: 50px;
+}
+#center{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
